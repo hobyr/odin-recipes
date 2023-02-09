@@ -6,4 +6,4 @@ tags and a couple of HTML pages.
 Tech used:
 - HTML5
 - Git (for commits and modification history)
-- Vim/VSCode (for code editing)
+- Vim in Terminal (for code editing)
